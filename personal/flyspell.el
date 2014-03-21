@@ -1,0 +1,1 @@
+(ispell-change-dictionary "english")
