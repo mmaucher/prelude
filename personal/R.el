@@ -7,4 +7,4 @@
 (prelude-require-package 'ess)
 
 (provide 'R)
-;;; sbcl.el ends here
+;;; R.el ends here
