@@ -19,6 +19,7 @@ savefile/
 projectile-bookmarks.eld
 session*
 .cask
-var/
 .AppleDouble
 */.AppleDouble
+tramp
+/var/pcache
